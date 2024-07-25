@@ -1,3 +1,11 @@
+1. 1
+2. 2
+3. 3
+4. 4
+5. https://katytodoappnuxtb.vercel.app/
+6. 6
+
+
 # The Nuxt 3 Bootcamp - The Complete Developer Guide
 
 Welcome to The Nuxt 3 Bootcamp - The Complete Developer Guide! 🚀
