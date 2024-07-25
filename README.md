@@ -3,7 +3,7 @@
 3. https://katydarkmodenuxtb.vercel.app/
 4. https://katyweatherappnuxtb.vercel.app/
 5. https://katytodoappnuxtb.vercel.app/
-6. 6
+6. https://katynotesappnuxtb.vercel.app/
 
 
 # The Nuxt 3 Bootcamp - The Complete Developer Guide
