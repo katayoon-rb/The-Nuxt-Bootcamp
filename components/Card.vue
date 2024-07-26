@@ -33,4 +33,8 @@
   h3 {
     padding: 10px;
   }
+
+  .dark .card {
+    color: black;
+  }
 </style>
