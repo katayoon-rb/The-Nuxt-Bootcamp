@@ -1,11 +1,3 @@
-1. https://katybabynamenuxtb.vercel.app/
-2. https://katytoprestaurantsnuxtb.vercel.app/
-3. https://katydarkmodenuxtb.vercel.app/
-4. https://katyweatherappnuxtb.vercel.app/
-5. https://katytodoappnuxtb.vercel.app/
-6. https://katynotesappnuxtb.vercel.app/
-
-
 # The Nuxt 3 Bootcamp - The Complete Developer Guide
 
 Welcome to The Nuxt 3 Bootcamp - The Complete Developer Guide! 🚀
