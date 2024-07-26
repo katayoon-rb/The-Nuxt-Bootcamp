@@ -12,7 +12,9 @@
 <template>
   <a :href="card.link" class="card">
     <img :src="card.img" :alt="card.title" />
-    <h3>{{ card.title }}</h3> 
+    <div class="content">
+      <h3>{{ card.title }}</h3> 
+    </div>
   </a>
 </template>
 
@@ -28,12 +30,12 @@
   }
   img {
     width: 100%;
-    height: 200px;
+    height: 175px;
   }
-  h3 {
+  .content {
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, .4);
     padding: 10px;
   }
-
   .dark .card {
     color: black;
   }
