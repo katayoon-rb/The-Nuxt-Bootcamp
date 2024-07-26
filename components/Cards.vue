@@ -1,32 +1,32 @@
 <script setup lang="ts">
   const cards = [
     {
-      img: "../assets/images/BabyNameGenerator.png",
+      img: "~/assets/images/BabyNameGenerator.png",
       title: "Baby Name Generator",
       link: "https://katybabynamenuxtb.vercel.app/",
     },
     {
-      img: "../assets/images/Restaurantly.png",
+      img: "~/assets/images/Restaurantly.png",
       title: "Restaurantly",
       link: "https://katytoprestaurantsnuxtb.vercel.app/restaurants",
     },
     {
-      img: "../assets/images/Artikle.png",
+      img: "~/assets/images/Artikle.png",
       title: "Artikle",
       link: "https://katydarkmodenuxtb.vercel.app/",
     },
     {
-      img: "../assets/images/WeatherApp.png",
+      img: "~/assets/images/WeatherApp.png",
       title: "Weather App",
       link: "https://katyweatherappnuxtb.vercel.app/",
     },
     {
-      img: "../assets/images/TodoApp.png",
+      img: "~/assets/images/TodoApp.png",
       title: "Todo App",
       link: "https://katytodoappnuxtb.vercel.app/",
     },
     {
-      img: "../assets/images/NotesApp.png",
+      img: "~/assets/images/NotesApp.png",
       title: "Notes App",
       link: "https://katynotesappnuxtb.vercel.app/",
     },
